@@ -18,7 +18,7 @@ A dynamic and interactive web application enabling users to buy, sell, and commu
 ## Technologies Used
 
 - **Languages**: PHP, JavaScript, HTML, CSS.
-- **Database**: MySQL.aaaaaaaaaaaaaa
+- **Database**: MySQL.
 - **Tools**: XAMPP, phpMyAdmin, and Visual Studio Code.
 
 ---
