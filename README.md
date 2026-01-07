@@ -1,5 +1,5 @@
 # 🛒 Marketplace Web Application  
-<small> Priyank Vora </small>
+
 **A full-featured buy/sell platform with secure authentication and real-time private messaging**
 A dynamic and interactive web application enabling users to buy, sell, and communicate with each other. This project features secure user authentication, listing management, and a private messaging system.
 
@@ -98,3 +98,4 @@ marketplace/
  
 ## 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
+**Author**: &copy;Priyank Vora |
