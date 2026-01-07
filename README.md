@@ -1,4 +1,4 @@
-# 🛒 NEXTO
+# 🛒 NexTo
 **Pass it to the next owner** — A clean, fast, and secure buy/sell marketplace 
 
 **A full-featured buy/sell platform with secure authentication and real-time private messaging**
@@ -100,4 +100,5 @@ marketplace/
 ## 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 **Author**: &copy;Priyank Vora |
+
 
